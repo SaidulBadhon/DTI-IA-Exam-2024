@@ -74,7 +74,12 @@ export default function Header() {
       </div>
 
       {isMenuOpen && (
-        <div className="fixed inset-0 bg-white z-40 flex flex-col items-center justify-center space-y-6">
+        <div
+          className="fixed inset-0 bg-white top-0 min-h-screen flex flex-col items-center justify-center space-y-6"
+          style={{
+            zIndex: 1000,
+          }}
+        >
           <button
             onClick={() => setIsMenuOpen(false)}
             className="absolute top-4 right-4 text-gray-700 focus:outline-none"
