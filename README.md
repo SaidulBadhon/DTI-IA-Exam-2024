@@ -44,8 +44,6 @@ Make sure you have the following installed:
    git clone https://github.com/saidulbadhon/portfolio-website.git
    ```
 
-````
-
 2. Navigate to the project directory:
 
    ```bash
@@ -106,4 +104,3 @@ http://localhost:3000
 ## License
 
 This project is licensed under the MIT License.
-````
