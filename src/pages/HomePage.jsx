@@ -94,9 +94,15 @@ export default function HomePage() {
             applications, and native applications. I've completed many projects
             with 100% client satisfaction. For me as a professional developer,
             learning new technologies in web and mobile is my passion. I have
-            worked with <span className="text-blue-700">PHP</span>, Python,
-            Java, C# and now in React JS, React Native & Node JS. Right now, I
-            am working as a MERN stack engineer on a different platform.
+            worked with <span className="font-semibold">PHP</span>,{" "}
+            <span className="font-semibold">Python</span>,{" "}
+            <span className="font-semibold">Java</span>,{" "}
+            <span className="font-semibold">C#</span> and now in{" "}
+            <span className="font-semibold">React JS</span>,{" "}
+            <span className="font-semibold">React Native</span> &{" "}
+            <span className="font-semibold">Node JS</span>. Right now, I am
+            working as a <span className="font-semibold">MERN</span> stack
+            engineer on a different platform.
           </p>
 
           {/* </motion.section> */}
